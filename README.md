@@ -83,3 +83,6 @@ SmartRAG uses a **Hybrid Intent-Score Router** to move beyond simple retrieval:
    ```bash
    py main.py --query "What are the penalties for violating the EU AI Act?"
    ```
+
+## ⚠️ Why Some Cases Failed ?
+For understanding the failure cases, see [FAILURES.md](FAILURES.md).
