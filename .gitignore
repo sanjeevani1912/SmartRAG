@@ -1,0 +1,20 @@
+# Python Environment
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Data & Indices
+data/faiss_index/
+data/output/evaluation_results.csv
+
+# IDEs & System
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Project Scratch (Now backed up outside repo)
+scratch/
+backup_scratch/
