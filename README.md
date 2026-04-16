@@ -4,6 +4,10 @@
 
 SmartRAG is an agentic reasoning system designed to handle imperfect and contradictory regulatory documents with engineering integrity.
 
+## 🎥 ▶ Demo Video 
+[Click to watch the demo on YouTube](https://youtu.be/eh9Xrfi7olQ)
+---
+
 ## 🏗️ Architecture
 
 ```mermaid
